@@ -1,0 +1,16 @@
+.top-box,
+.bottom-box {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+}
+
+.operator {
+  margin-left: 10px;
+  margin-right: 10px;
+  display: block;
+}
+
+.grand-total {
+  text-align: center;
+}

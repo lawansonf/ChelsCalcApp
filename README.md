@@ -1,2 +1,0 @@
-# ChelsCalcApp
-Created with CodeSandbox
